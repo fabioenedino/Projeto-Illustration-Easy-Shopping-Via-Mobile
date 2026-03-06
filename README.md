@@ -1,2 +1,9 @@
-Fizemos uma alteração no title do index.HTML
-Agora está com novo tema:Projeto-Branch Develop
+<h1>Easy Shopping</h1>
+<br>
+<br>
+<h2>Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<br>
+<br>
+<img src="https://github.com/fabioenedino/Projeto-Illustration-Easy-Shopping-Via-Mobile/blob/develop/assets/Desktop%20-%20Easy%20Shopping%20Via%20Mobile.png?raw=true"/>
+<br>
+<img src="https://github.com/fabioenedino/Projeto-Illustration-Easy-Shopping-Via-Mobile/blob/develop/assets/Mobile%20-%20Easy%20Shopping%20Via%20Mobile.png?raw=true"/>
