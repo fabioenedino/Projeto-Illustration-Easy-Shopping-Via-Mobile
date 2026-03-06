@@ -3,7 +3,12 @@
 <br>
 <h2>Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
-<br>
+<h2>Tecnologias utilizadas</h2>
+<br><b>
+  - HTML <br>
+  - CSS </b><br>
+<br><br>  
 <img src="https://github.com/fabioenedino/Projeto-Illustration-Easy-Shopping-Via-Mobile/blob/develop/assets/Desktop%20-%20Easy%20Shopping%20Via%20Mobile.png?raw=true"/>
 <br>
+<h2>Projeto responsivo</h2>
 <img src="https://github.com/fabioenedino/Projeto-Illustration-Easy-Shopping-Via-Mobile/blob/develop/assets/Mobile%20-%20Easy%20Shopping%20Via%20Mobile.png?raw=true"/>
